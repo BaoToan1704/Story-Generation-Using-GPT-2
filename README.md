@@ -17,7 +17,7 @@ This repository provides an example of how to use the GPT-2 language model in Hu
 - PyTorch or TensorFlow
 
 ## Installation
-- Clone this repository: git clone ```https://github.com/BaoToan1704/Deep-Learning/Final%20Project```
+- Clone this repository: git clone ```[https://github.com/BaoToan1704/Deep-Learning/Final%20Project](https://github.com/BaoToan1704/Text-Generation-Using-GPT-2)```
 - Navigate to the repository directory: ```cd Final Project```
 - Install the required libraries: ```pip install -r requirements.txt```
 
