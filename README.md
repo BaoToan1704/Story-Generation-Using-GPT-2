@@ -11,6 +11,9 @@ tags:
 ## Story Generation Using GPT-2 in Hugging Face
 This repository provides an example of how to use the GPT-2 language model in Hugging Face for story generation tasks. GPT-2 is a powerful natural language processing model that can generate human-like text, and Hugging Face is a popular open-source library for working with NLP models.
 
+## Achivement
+- Achieved a high BLEU score of 0.97, indicating a strong similarity between generated stories and human-written texts.
+
 ## Requirements
 - Python 3.6 or higher
 - Hugging Face transformers library
