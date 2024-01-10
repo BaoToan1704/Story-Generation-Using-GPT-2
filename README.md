@@ -37,12 +37,12 @@ You can customize the GPT-2 model and the text generation settings by editing th
 - GPT-2 model by me: ```https://huggingface.co/baotoan2002/GPT-2```
 - OpenAI GPT-2 model: ```https://openai.com/models/gpt-2/```
 
-<h2 id="contact-">Contact </h2>
-<p>Bảo Toàn - <a href="https://facebook.com/baotoan.trinh3">@Trinh Bao Toan</a> - <a href="mailto:baotoantrinh2002@gmail.com">baotoantrinh2002@gmail.com</a></p>
-
 ## License
 This repository is licensed under the [openrail] License. See the LICENSE file for details.
 
 ## Acknowledgments
 - Special thanks to the Hugging Face team for their excellent work on the Transformers library.
 - Thanks to OpenAI for providing the pre-trained GPT-2 model.
+
+<h2 id="contact-">Contact </h2>
+<p>Bảo Toàn - <a href="https://facebook.com/baotoan.trinh3">@Trinh Bao Toan</a> - <a href="mailto:baotoantrinh2002@gmail.com">baotoantrinh2002@gmail.com</a></p>
