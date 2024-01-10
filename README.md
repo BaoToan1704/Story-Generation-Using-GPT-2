@@ -1,4 +1,4 @@
-# Text-Generation-Using-GPT-2
+# Story-Generation-Using-GPT-2
 ---
 license: openrail
 metrics:
